@@ -9,9 +9,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-              Welcome to my personal website! I'm passionate about technology, innovation, 
-              and creating solutions that make a difference. I enjoy working on challenging 
-              problems and continuously learning new technologies and methodologies.
+              Welcome to my personal website! 
             </p>
             <p>
               This website serves as a portfolio of my work, experiences, and projects. 
